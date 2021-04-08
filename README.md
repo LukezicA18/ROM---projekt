@@ -3,7 +3,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram stroske Olimpijskih iger od
 
 Pri projektu uporabljamo racunalniski program Mathematica.
 
-##Načrt projekta
+## Načrt projekta
 1. Pridobivanje podatkov. Uporabil bom Wolfram data repository.
 2. 
 
