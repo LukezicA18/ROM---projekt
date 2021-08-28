@@ -10,21 +10,29 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      1039,         38]
-NotebookOptionsPosition[       746,         25]
-NotebookOutlinePosition[      1089,         40]
-CellTagsIndexPosition[      1046,         37]
+NotebookDataLength[      1365,         49]
+NotebookOptionsPosition[       950,         33]
+NotebookOutlinePosition[      1292,         48]
+CellTagsIndexPosition[      1249,         45]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
 Cell["STRO\[CapitalSHacek]KI OLIMPIJSKIH IGER", "Title",
  CellChangeTimes->{{3.839171116463622*^9, 
   3.8391711396150627`*^9}},ExpressionUUID->"03e17c88-5d0e-4e4f-8d99-\
-3d8b90300b28"]
+3d8b90300b28"],
+
+Cell["Pridobivanje podatkov", "Text",
+ CellChangeTimes->{{3.8391738609950266`*^9, 
+  3.8391738685910378`*^9}},ExpressionUUID->"9fdecc2b-ca90-4f46-87fd-\
+bfc948c3df99"]
+}, Open  ]]
 },
 WindowSize->{759, 606},
-WindowMargins->{{Automatic, 295}, {22, Automatic}},
+WindowMargins->{{Automatic, 74}, {Automatic, 29}},
 FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
 StyleDefinitions->"Default.nb"
 ]
@@ -39,7 +47,10 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 184, 3, 96, "Title",ExpressionUUID->"03e17c88-5d0e-4e4f-8d99-3d8b90300b28"]
+Cell[CellGroupData[{
+Cell[580, 22, 184, 3, 96, "Title",ExpressionUUID->"03e17c88-5d0e-4e4f-8d99-3d8b90300b28"],
+Cell[767, 27, 167, 3, 34, "Text",ExpressionUUID->"9fdecc2b-ca90-4f46-87fd-bfc948c3df99"]
+}, Open  ]]
 }
 ]
 *)
