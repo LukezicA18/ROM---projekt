@@ -14,6 +14,6 @@ Pri projektu uporabljamo računalniški program Mathematica.
 
 ## Aplikacija
 Pri projektu sem pripravil aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
-https://www.wolframcloud.com/obj/adea0438-3430-4a07-bcf7-1c93d4c09e2f
+https://www.wolframcloud.com/obj/64ec58bf-3775-45fe-93ab-fda1c5227b44
 
 Pripravil: *Aljaž Lukežič*
